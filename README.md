@@ -16,7 +16,6 @@ Olá, sou Thiago de Rocco.
 ### **💻 OS**
 
 <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
-<code><img height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 
 ### **🚀 Skills**  
