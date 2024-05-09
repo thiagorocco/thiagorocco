@@ -31,7 +31,7 @@ Olá, sou Thiago de Rocco.
 ### **⚡ Database**
 
 <code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="50" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></code>
+<code><img height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"></code>
 
 ------
 
